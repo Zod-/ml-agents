@@ -54,7 +54,7 @@ public class Ball3DAgent : Agent
             {
                 gameObject.transform.Rotate(new Vector3(1, 0, 0), action_x);
             }
-				
+
 
             if (done == false)
             {
@@ -87,6 +87,9 @@ public class Ball3DAgent : Agent
             if (done == false)
             {
                 reward = 0.1f;
+                reward -= 0.01f * ball.GetComponent<Rigidbody>().velocity.magnitude;
+                reward -= 0.0033f * Mathf.Abs(gameObject.transform.rotation.z);
+                reward -= 0.0033f * Mathf.Abs(gameObject.transform.rotation.x);
             }
         }
         if ((ball.transform.position.y - gameObject.transform.position.y) < -2f ||
