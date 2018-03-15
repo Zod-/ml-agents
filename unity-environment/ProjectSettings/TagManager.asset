@@ -6,6 +6,11 @@ TagManager:
   tags:
   - agent
   - iWall
+  - pit
+  - wall
+  - Wall
+  - Ground
+  - PlayerSensor
   layers:
   - Default
   - TransparentFX
@@ -17,9 +22,9 @@ TagManager:
   - 
   - invisible
   - ball
-  - 
-  - 
-  - 
+  - car
+  - Ground
+  - Wall
   - 
   - 
   - 

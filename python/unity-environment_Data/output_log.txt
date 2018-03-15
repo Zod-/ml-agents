@@ -1,0 +1,181 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA NVS 5200M (ID=0xdfc)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+    Driver:   22.21.13.8541
+Begin MonoManager ReloadAssembly
+Loading C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\System.Core.dll (this message is harmless)
+Loading C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Loading C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Loading C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Loading C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Loading C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Loading C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\TextMeshPro-1.0.55.2017.1.0b13.dll into Unity Child Domain
+Loading C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\System.Numerics.dll into Unity Child Domain
+Loading C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\System.ValueTuple.dll into Unity Child Domain
+Loading C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\TensorFlowSharp.dll into Unity Child Domain
+Loading C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\System.dll (this message is harmless)
+- Completed reload, in  0.059 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.047870 ms
+Platform assembly: C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\j.hangstoerfer\Source\Repos\ml-agents\python\unity-environment_Data\Managed\System.Data.dll (this message is harmless)
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (7)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (8)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (9)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (7)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (8)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (9)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (7)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (8)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (9)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (7)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (8)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (9)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (7)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (8)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (9)"
+ 
+(Filename:  Line: 0)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1d7c -> priority: 1 
+  Thread -> id: 3e9c -> priority: 1 
+  Thread -> id: 4370 -> priority: 1 
+  Thread -> id: 31cc -> priority: 1 
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (7)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (8)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (9)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (7)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (8)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (9)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (7)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (8)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Track/RightCurve/Wall (9)"
+ 
+(Filename:  Line: 0)
+
